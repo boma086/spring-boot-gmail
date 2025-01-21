@@ -1,0 +1,8 @@
+POST http://localhost:8080/email
+Content-Type: application/json
+
+{
+    "to": "boma086@gmail.com",
+    "subject": "value",
+    "body": "value"
+}
